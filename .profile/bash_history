@@ -1,0 +1,29 @@
+
+git_helper 
+git_helper --commit fixed stuff
+pytest
+python -m pytest
+git_helper --commit "changed files"
+which git_helper 
+git_helper save
+pwd
+c 
+cd comm109z-assignment-fork/
+git_helper save
+vi .devcontainer/devcontainer.json 
+git_helper save
+hello
+git_helper save
+sdf
+hello
+git_helper save
+ls -a
+rm -rf __pycache__
+rm .git_history_snapshot 
+ls
+git_helper --submit
+vi .profile/git_helper.sh 
+git_helper save
+git_helper --commit
+git --zip
+git_helper --zip
